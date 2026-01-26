@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MusicPlayback" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <!-- false = blanco, true = oscuro -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+<!--    <style name="Theme.MusicPlayback" parent="Base.Theme.MusicPlayback" />-->
+
+    <!-- Tema para la pantalla de bienvenida (Splash Screen) -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- El color de fondo de la pantalla de bienvenida -->
+        <item name="windowSplashScreenBackground">@color/black</item>
+
+        <!-- El icono que se mostrará en el centro. -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+
+        <!-- El tema al que se cambiará la app DESPUÉS de que termine el splash screen -->
+        <item name="postSplashScreenTheme">@style/Theme.MusicPlayback</item>
+    </style>
+
+</resources>
