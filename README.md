@@ -11,7 +11,6 @@ Desarrollo de reproductor musical nativo con servicio y reproducción en segundo
 
 ## 🚧 Estado del proyecto
 En desarrollo.  
-El código se publicará cuando esté más avanzado y organizado.
 
 ## 🛠️ Tecnologías
 - Android Studio
