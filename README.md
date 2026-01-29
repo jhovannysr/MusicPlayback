@@ -2,7 +2,7 @@
 Desarrollo de reproductor musical nativo con servicio y reproducción en segundo plano para Android, herramientas usadas: Android Studio, kotlin, Jetpack Compose 
 
 ## 🎥 Demo en vídeo
-👉 [Ver demostración de la aplicación (3 min)](https://drive.google.com/file/d/1cHC2m2LLn76Zrp8thmQnumRzfY-_ZoUL/view?usp=sharing)
+👉 [Ver demostración de la aplicación (2 min)](https://drive.google.com/file/d/1hqUqn8ZVYk6D7wbhtogEfUNbilx8tX7r/view?usp=sharing)
 
 ## 📱 Estado actual
 - Reproducción de música local
@@ -10,7 +10,7 @@ Desarrollo de reproductor musical nativo con servicio y reproducción en segundo
 - Interfaz propia en Android Studio
 
 ## 🚧 Estado del proyecto
-En desarrollo.  
+Finalizado.  
 
 ## 🛠️ Tecnologías
 - Android Studio
