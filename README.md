@@ -13,5 +13,6 @@ Desarrollo de reproductor musical nativo con servicio y reproducción en segundo
 Finalizado.  
 
 ## 🛠️ Tecnologías
+- Arquitectua: MVVM (Model-View-ViewModel)
 - Android Studio
 - Kotlin / Jetpack Compose
