@@ -16,3 +16,4 @@ Finalizado.
 - Arquitectua: MVVM (Model-View-ViewModel)
 - Android Studio
 - Kotlin / Jetpack Compose
+- Room "Biblioteca para gestionar base de datos"
