@@ -13,7 +13,9 @@ Desarrollo de reproductor musical nativo con servicio y reproducción en segundo
 Finalizado.  
 
 ## 🛠️ Tecnologías
+- Tipo de app: Android
 - Arquitectua: MVVM (Model-View-ViewModel)
-- Android Studio
-- Kotlin / Jetpack Compose
-- Room "Biblioteca para gestionar base de datos"
+- Entorno de desarrollo: Android Studio
+- Lenguaje de programación: Kotlin
+- Framework: Jetpack Compose
+- Base de datos: Room
